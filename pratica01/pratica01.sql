@@ -5,4 +5,4 @@ CREATE TABLE Pessoa (
   cpf BIGINT NOT NULL,
   nome VARCHAR(100) NOT NULL,
   senha VARCHAR(100) NOT NULL,
-  PRIMARY KEY (cpf))
+  PRIMARY KEY (cpf));
