@@ -1,0 +1,7 @@
+1. API é uma ferramenta para criação de interfaces; Biblioteca é um conjunto de recusrsos invocados para criação de programas.
+
+2. MVC - Padrão de projeto criado nos anos 70. Utilizado para separar partes do projeto; organização;
+   DA0 - Utilizado para separar a persistência de dados da lógica de negócio;
+   SGT - Utilizado para garantir apenas 1 instância de acesso global para uma classe.
+   
+3. API em java utilizada para se conectar com bancos de dados através de drivers únicos.
