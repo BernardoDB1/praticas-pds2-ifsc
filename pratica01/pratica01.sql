@@ -1,4 +1,4 @@
-DROP DATABASE pratica01;
+
 CREATE database pratica01;
 USE pratica01;
 CREATE TABLE Pessoa (
