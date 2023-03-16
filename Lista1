@@ -6,6 +6,14 @@
    
 3. API em java utilizada para se conectar com bancos de dados através de drivers únicos.
 
-====================PRATICAS====================
+4. Create, Read, Update, Delete. Funçoes básicas e essenciais para o padrão DAO. Criam, leem, atualizam e deletam informação.
 
-8. 
+5. Connection: classe usada para conectar o programa a uma tabela relacional;
+   PreparedStatement: usada para definir valores de forma rápida;
+   Statement: usada para prover métodos que executam queries com o banco de dados.
+
+6. A classe Statement retorna uma escolha com o método public ResultSet executeQuery(String sql);
+   A Preparedtatement retorna uma instância do ResultSet com o método public ResultSet executeQuery().
+
+7. Swing: pacote que providencia classes para como JButton, JTextField, JCheckBox etc.
+   WindowBuilder: plug-in para o Eclipse. Com uma interface, permite o uso do Swing de forma fácil, gerando códigos automáticamente conforme as classes são invocadas.
