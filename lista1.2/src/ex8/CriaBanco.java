@@ -4,6 +4,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class CriaBanco {
+
+public static void main(String[] args) {
 // TODO Auto-generated method stub
 Connection conexao;
 final String USER = "root";
